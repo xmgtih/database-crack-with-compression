@@ -1,3 +1,11 @@
+/********************************************************************
+created:　　　 2007/08/28
+filename:　　　　 avltree.c
+author:　　　　　　　 Lichuang
+
+purpose:　　　 AVL树的实现代码, 
+　　　　　　　　　　　 参考资料<<数据结构与算法分析-C语言描述>>, 作者Allen Weiss
+*********************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
